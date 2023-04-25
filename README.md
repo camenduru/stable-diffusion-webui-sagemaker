@@ -201,12 +201,6 @@ https://github.com/camenduru/stable-diffusion-webui-docker
 ## 🦒 Colab
 https://github.com/camenduru/stable-diffusion-webui-colab
 
-## Tutorials
-How to Use: https://youtu.be/ZUbLoMt_wa0 <br />
-How To Use With Google Drive: https://youtu.be/zjeziAAKx-o <br />
-How To Use 🤗 Hugging Face Upload Extension: https://youtu.be/KeGpKGzK7R8 <br />
-How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2VwqHN7HDMc <br />
-
 ## Stable Diffusion Web UI
 [https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) (Thanks to @AUTOMATIC1111 ❤)
 
@@ -248,14 +242,6 @@ How To Use Additional Networks (LoRA) and CivitAI Extension: https://youtu.be/2V
 [https://github.com/ashen-sensored/stable-diffusion-webui-two-shot](https://github.com/ashen-sensored/stable-diffusion-webui-two-shot) (Thanks to @opparco ❤  @ashen-sensored ❤) <br />
 [https://github.com/ashen-sensored/sd_webui_stealth_pnginfo](https://github.com/ashen-sensored/sd_webui_stealth_pnginfo) (Thanks to @ashen-sensored ❤ @gitadmin0608 ❤) <br />
 [https://github.com/nonnonstop/sd-webui-3d-open-pose-editor](https://github.com/nonnonstop/sd-webui-3d-open-pose-editor) (Thanks to @nonnonstop ❤) <br />
-
-## Video Installed Extensions
-[https://github.com/volotat/SD-CN-Animation](https://github.com/volotat/SD-CN-Animation) (Thanks to @volotat ❤)  <br />
-[https://github.com/deforum-art/sd-webui-text2video](https://github.com/deforum-art/sd-webui-text2video) (Thanks to @kabachuha ❤)   <br />
-[https://xanthius.itch.io/multi-frame-rendering-for-stablediffusion](https://xanthius.itch.io/multi-frame-rendering-for-stablediffusion) (Thanks to xanthius ❤)   <br />
-[https://rentry.org/sd-loopback-wave](https://rentry.org/sd-loopback-wave) (Thanks to the anonymous person ❤)   <br />
-[https://github.com/Winfredy/SadTalker](https://github.com/Winfredy/SadTalker) (Thanks to @vinthony ❤)   <br />
-[https://github.com/v8hid/infinite-zoom-automatic1111-webui](https://github.com/v8hid/infinite-zoom-automatic1111-webui) (Thanks to @v8hid ❤)  <br />
 
 ## Installed Scripts
 [https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py](https://github.com/camenduru/stable-diffusion-webui-scripts/blob/main/run_n_times.py) <br />
